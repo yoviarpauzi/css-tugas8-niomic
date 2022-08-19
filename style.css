@@ -1,0 +1,24 @@
+body {
+    background-image: url(https://github.com/hasansuryaman/tugas_8_css/blob/master/img/pahawang-beach.jpg?raw=true);
+}
+.container {
+    background-color: #fff;
+    width: 700px;
+    height: 370px;
+    border: 1px solid #000;
+    overflow: scroll;
+    font-size: 18px;
+    font-weight: bold;
+    background-image: url(https://github.com/hasansuryaman/tugas_8_css/blob/master/img/avocado.jpg?raw=true);
+    background-repeat: repeat-y;
+    background-size: 300px;
+}
+.satu {
+    color: blue;
+}
+.dua {
+    color: green;
+}
+.tiga {
+    color: red;
+}
